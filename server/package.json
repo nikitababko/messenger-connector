@@ -5,7 +5,7 @@
     "email": "niki.babko@gmail.com"
   },
   "version": "1.0.0",
-  "description": "",
+  "description": "messenger",
   "main": "dist/index.js",
   "scripts": {
     "start": "node dist/index.js",
