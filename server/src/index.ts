@@ -32,6 +32,10 @@ if (process.env.NODE_ENV === 'development') {
 // Database
 import './core/database';
 
+// Routes
+import createRoutes from './core/routes';
+createRoutes(app);
+
 // Server
 const PORT: number = Number(process.env.PORT);
 app.listen(PORT, () => {
