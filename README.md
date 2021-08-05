@@ -1,9 +1,6 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <h3 style="font-size: 50px;">
-    Messenger connector 
-  </h3>
-  <img src="https://image.prntscr.com/image/lN3uV4GlRl6J1LeA3mXW8A.png" />
-</div>
+# Messenger connector 
+
+![Logo](https://image.prntscr.com/image/lN3uV4GlRl6J1LeA3mXW8A.png)
 
 ## Demo
 
