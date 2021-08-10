@@ -6,6 +6,10 @@
 
 ## Features
 
+- Auth with email or SMS
+- Password recover
+- Activate account
+- Friends
 - Light/dark mode toggle
 - Cross platform
 
